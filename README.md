@@ -9,9 +9,7 @@
 <hr>
 <p>1. Download Medium app from playstore.</p>
 <a href="https://play.google.com/store/apps/details?id=com.medium.reader&hl=en_IN">Download Medium</a>
-<br>
 <p>2. Open Medium App</p>
-<br>
 <p>3.Select any premium article </p>
 <p>4.Click on Share button </p>
 <img src="./images/1.jpeg">
